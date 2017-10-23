@@ -1,5 +1,5 @@
 # Miodowniki
-Desktop app allows managing files with espiodes of polish sitcom *[Miodowe Lata](https://pl.wikipedia.org/wiki/Miodowe_lata)*. You can search for specific episode, play random or just see what episodes you have on your disc.
+Desktop app allows managing files with episodes of polish sitcom *[Miodowe Lata](https://pl.wikipedia.org/wiki/Miodowe_lata)*. You can search for specific episode, play random or just see what episodes you have on your disc.
 
 To play episodes you have to save them in folder `/episodes` in following format:<br>
 ```
